@@ -1,0 +1,12 @@
+{
+    "name": "aws-upload",
+    "version": "1.0.0",
+    "description": "Lambda",
+    "main": "index.js",
+    "author": "Seongjin",
+    "license": "ISC",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.169.0",
+        "sharp": "^0.30.7"
+    }
+}
